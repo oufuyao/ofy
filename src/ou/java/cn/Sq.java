@@ -4,7 +4,8 @@ public class Sq {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-      System.out.print("hhhÄãºÃ");
+      System.out.print("ÎÒÊÇ²âÊÔ");
+      
 	}
 
 }
